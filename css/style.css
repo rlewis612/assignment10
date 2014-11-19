@@ -1,0 +1,45 @@
+p {
+	line-height: 1.6em;
+}
+ul {
+	padding-left: 0;
+}
+li {
+	list-style: none;
+}
+.sidebar-nav a {
+	color:rgb(255,255,255);
+}
+.sidebar-nav a:hover {
+	text-decoration: none;
+}
+.sidebar-nav li:hover {
+	background:rgba(255, 140, 0, 1);
+}
+.center-text{
+	text-align: center;
+}
+.container-fluid {
+	width:80%;
+}
+.jumbotron {
+	margin-top:40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.thumbnail {
+	float:left;
+	width:25%;
+}
+.my-sidebar {
+	line-height: 3em;
+}
+.sidebar-nav li {
+	background: gray;
+	padding-left: 8px;
+	margin-bottom: 2px;
+	border-radius: 3px;
+}
+.my-footer {
+	margin-top: 40px;
+}
